@@ -1,4 +1,4 @@
-# DVC
+# DVC (Last edited 1/19/2017)
 ## Courses taken: 110, 165, 200, 210, 255
 ## Intro (C++), Advanced (C++), Object Oriented, Program Design and Data Structures, Programming with Java
 ### This is a repository for all my assignments that I have previously finished while attending community college (DVC)
